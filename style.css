@@ -1,0 +1,49 @@
+/* Styling for Movie Ranking Project */
+
+/* Base body styles */
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 8px;
+  line-height: normal;
+}
+
+/* Main Heading (Level 1) */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+  font-weight: bold;
+}
+
+/* Subheading (Level 2) */
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+  font-weight: bold;
+}
+
+/* Horizontal line separator */
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-style: inset;
+  border-width: 1px;
+  border-color: #ccc;
+}
+
+/* Movie Titles (Level 3 Heading) */
+h3 {
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+/* Movie Description Paragraphs */
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
